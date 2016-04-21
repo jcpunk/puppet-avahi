@@ -1,0 +1,17 @@
+{
+  "name": "jcpunk-avahidaemon",
+  "version": "0.1.0",
+  "author": "jcpunk",
+  "summary": "Configures the avahi daemon",
+  "license": "Apache 2.0",
+  "source": "https://github.com/jcpunk/puppet-avahi",
+  "project_page": "https://github.com/jcpunk/puppet-avahi",
+  "issues_url": "https://github.com/jcpunk/puppet-avahi/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
